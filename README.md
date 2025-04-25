@@ -3,8 +3,6 @@
 
 **A GUI-based CPU scheduling algorithm simulator with visualization**
 
-![CPU Scheduling Simulator Screenshot](image.png)
-
 ## 🌟 Features
 - **Feature 1**: Brief description (e.g., "Simulates 6 CPU scheduling algorithms")
 - **Feature 2**: With notable technical details (e.g., "Real-time Gantt chart rendering")
